@@ -1,6 +1,5 @@
 import urllib2
 import re
-import time
 import csv
 import sys
 from bs4 import BeautifulSoup
