@@ -38,7 +38,7 @@ class MovieRatingScraper():
 
     def data2csv(self, filename):
 
-        file = open('C:/Users/eldea/IdeaProjects/webscraping/src/csv/' + filename,'w+')
+        file = open('../csv/' + filename,'w+')
 
         for i in range(len(self.movieList)):
             for j in range(len(self.movieList[i])):
