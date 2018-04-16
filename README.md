@@ -18,5 +18,6 @@ La práctica ha sido realizada individualmente por **Juan Luis Arróniz Cruz**
 
 ## Recursos Utilizados
 
-1. Lawson, R. (2015). _Web Scraping with Python_. Packt Publishing Ltd. Chapter 2. Scraping the Data.
-2. https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+1. Masip, D. (2010). El lenguaje Python. Editorial UOC
+2. Lawson, R. (2015). _Web Scraping with Python_. Packt Publishing Ltd. Chapter 2. Scraping the Data.
+3. https://www.crummy.com/software/BeautifulSoup/bs4/doc/
